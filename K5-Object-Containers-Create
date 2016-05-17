@@ -1,0 +1,6 @@
+curl -X POST
+  -H "Content-Type: application/json"
+  -H "Accepts: application/json"
+  -H "X-Auth-Token: {TOKENID}" 
+  
+  https://image.jp-west-1.cloud.global.fujitsu.com/v1/AUTH_{PROJECTID}/{CONTAINER_NAME} ; echo

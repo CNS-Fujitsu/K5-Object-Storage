@@ -1,1 +1,1 @@
-curl -X POST -H "Content-Type: application/json" -H "Accepts: application/json" -H "X-Auth-Token: CHANGEME_TO_TOKEN" https://objectstorage.jp-west-1.cloud.global.fujitsu.com/v1/AUTH_CHANGEME_TO_PROJECT_ID/CHANGEME_TO_CONTAINER_NAME ; echo
+curl -X PUT -H "Content-Type: application/json" -H "Accepts: application/json" -H "X-Auth-Token: CHANGEME_TO_TOKEN" https://objectstorage.jp-west-1.cloud.global.fujitsu.com/v1/AUTH_CHANGEME_TO_PROJECT_ID/CHANGEME_TO_CONTAINER_NAME ; echo

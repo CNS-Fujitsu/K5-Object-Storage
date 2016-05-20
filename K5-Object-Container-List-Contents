@@ -1,0 +1,1 @@
+curl -X GET -H "Content-Type: application/json" -H "Accepts: application/json" -H "X-Auth-Token: CHANGE_ME_AUTH_TOKEN" https://objectstorage.jp-west-1.cloud.global.fujitsu.com/v1/AUTH_CHANGE_ME_PROJECT_ID/CHANGE_ME_CONTAINER_NAME ; echo
